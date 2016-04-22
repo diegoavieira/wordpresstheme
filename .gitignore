@@ -1,12 +1,3 @@
-# ---------------------------------------------------------------------
-# Modelo para projetos WordPress - https://lampso.com.br
-# v20151108
-#
-# Histórico:
-# 20151108 Publicação
-#
-# ---------------------------------------------------------------------
-
 # Ignorar arquivos temporários ou ocultos
 .*
 ~*
