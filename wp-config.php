@@ -9,7 +9,7 @@
  *
  * Esse arquivo é usado pelo script ed criação wp-config.php durante a
  * instalação. Você não precisa usar o site, você pode apenas salvar esse arquivo
- * como "wp-config.php" e preencher os valoress.
+ * como "wp-config.php" e preencher os valoresss.
  *
  * @package WordPress
  */
