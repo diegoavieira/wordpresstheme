@@ -1,1 +1,4 @@
-gitignoreteste
+# Ignorar todo conteúdo, exceto Temas e Plugins
+wp-content/*
+!wp-content/themes/
+!wp-content/plugins/
